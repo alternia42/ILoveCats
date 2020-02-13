@@ -1,0 +1,10 @@
+D:\CatsCatsCats\ILoveCats\ILoveCats\ILoveCats\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\CatsCatsCats\ILoveCats\ILoveCats\ILoveCats\bin\Debug\netcoreapp3.0\appsettings.json
+D:\CatsCatsCats\ILoveCats\ILoveCats\ILoveCats\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\CatsCatsCats\ILoveCats\ILoveCats\ILoveCats\bin\Debug\netcoreapp3.0\ILoveCats.exe
+D:\CatsCatsCats\ILoveCats\ILoveCats\ILoveCats\obj\Debug\netcoreapp3.0\ILoveCats.csprojAssemblyReference.cache
+D:\CatsCatsCats\ILoveCats\ILoveCats\ILoveCats\obj\Debug\netcoreapp3.0\staticwebassets\ILoveCats.StaticWebAssets.Manifest.cache
+D:\CatsCatsCats\ILoveCats\ILoveCats\ILoveCats\obj\Debug\netcoreapp3.0\staticwebassets\ILoveCats.StaticWebAssets.xml
+D:\CatsCatsCats\ILoveCats\ILoveCats\ILoveCats\obj\Debug\netcoreapp3.0\ILoveCats.AssemblyInfoInputs.cache
+D:\CatsCatsCats\ILoveCats\ILoveCats\ILoveCats\obj\Debug\netcoreapp3.0\ILoveCats.AssemblyInfo.cs
+D:\CatsCatsCats\ILoveCats\ILoveCats\ILoveCats\obj\Debug\netcoreapp3.0\ILoveCats.RazorTargetAssemblyInfo.cache
