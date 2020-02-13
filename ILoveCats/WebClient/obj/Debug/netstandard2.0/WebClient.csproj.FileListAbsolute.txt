@@ -1,0 +1,4 @@
+D:\CatsCatsCats\ILoveCats\ILoveCats\WebClient\bin\Debug\netstandard2.0\Common.dll
+D:\CatsCatsCats\ILoveCats\ILoveCats\WebClient\obj\Debug\netstandard2.0\WebClient.csprojAssemblyReference.cache
+D:\CatsCatsCats\ILoveCats\ILoveCats\WebClient\obj\Debug\netstandard2.0\WebClient.AssemblyInfoInputs.cache
+D:\CatsCatsCats\ILoveCats\ILoveCats\WebClient\obj\Debug\netstandard2.0\WebClient.AssemblyInfo.cs
