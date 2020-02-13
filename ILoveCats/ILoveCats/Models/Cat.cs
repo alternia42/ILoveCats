@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using System;
+
 namespace ILoveCats.Models
 {
     public class Cat
@@ -10,7 +12,6 @@ namespace ILoveCats.Models
         public string Breed { get; set; }
         public string Colour { get; set; }
         public string Coat { get; set; }
-        
 
     }
 }
